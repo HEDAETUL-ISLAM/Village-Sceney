@@ -8,20 +8,20 @@ This Project was done bye
 
 ## Features & Description
 
-• Sky
-• Hills
-• Mountain
-• Village
-• River
-• Sun with movement
-• Land
-• Move water
-• Tree
-• Road
-• House
-• Sheep
-• Cloud with movement
-• Cow-Car with movement
-• Boat with movement
-• Night View
-• Day View
+- Sky
+- Hills
+- Mountain
+- Village
+- River
+- Sun with movement
+- Land
+- Move water
+- Tree
+- Road
+- House
+- Sheep
+- Cloud with movement
+- Cow-Car with movement
+- Boat with movement
+- Night View
+- Day View
